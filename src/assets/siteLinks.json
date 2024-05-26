@@ -5,13 +5,13 @@
     "link": "http://zslsys.v6.rocks/portainer/"
   },
   {
-    "icon": "Cloud",
+    "icon": "alist",
     "name": "网盘",
     "link": "http://zslsys.v6.rocks:5244"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
+    "icon": "mcpanel",
+    "name": "MCSM",
     "link": "http://zslsys.v6.rocks:23333"
   },
   {
@@ -20,8 +20,8 @@
     "link": "https://nav.imsyy.top/"
   },
   {
-    "icon": "Book",
-    "name": "yacd",
+    "icon": "yacd",
+    "name": "Yacd",
     "link": "http://zslsys.v6.rocks/yacd"
   },
   {
