@@ -1,31 +1,31 @@
 [
   {
-    "icon": "/images/icon/portainer.png",
+    "icon": "Docker",
     "name": "docker",
     "link": "http://zslsys.v6.rocks/portainer/"
   },
   {
-    "icon": "/images/icon/alist.png",
+    "icon": "Cloud",
     "name": "网盘",
     "link": "http://zslsys.v6.rocks:5244"
   },
   {
-    "icon": "/images/icon/mcpanel.png",
+    "icon": "Table",
     "name": "MCSM",
     "link": "http://zslsys.v6.rocks:23333"
   },
   {
-    "icon": "/images/icon/yacd.png",
+    "icon": "Cat",
     "name": "YACD",
     "link": "http://zslsys.v6.rocks/yacd/"
   },
   {
-    "icon": "/images/icon/gptchat.png",
+    "icon": "Robot",
     "name": "Gpt",
     "link": "http://zslsys.v6.rocks:12001"
   },
   {
-    "icon": "/images/icon/photoprism.png",
+    "icon": "PhotoVideo",
     "name": "photoprism",
     "link": "http://zslsys.v6.rocks:2342"
   },
