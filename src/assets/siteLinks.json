@@ -1,28 +1,33 @@
 [
   {
-    "icon": "portainer",
+    "icon": "/images/icon/portainer.png",
     "name": "docker",
     "link": "http://zslsys.v6.rocks/portainer/"
   },
   {
-    "icon": "alist",
+    "icon": "/images/icon/alist.png",
     "name": "网盘",
     "link": "http://zslsys.v6.rocks:5244"
   },
   {
-    "icon": "mcpanel",
+    "icon": "/images/icon/mcpanel.png",
     "name": "MCSM",
     "link": "http://zslsys.v6.rocks:23333"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "/images/icon/yacd.png",
+    "name": "YACD",
+    "link": "http://zslsys.v6.rocks/yacd/"
   },
   {
-    "icon": "yacd",
-    "name": "Yacd",
-    "link": "http://zslsys.v6.rocks/yacd"
+    "icon": "/images/icon/gptchat.png",
+    "name": "Gpt",
+    "link": "http://zslsys.v6.rocks:12001"
+  },
+  {
+    "icon": "/images/icon/photoprism.png",
+    "name": "photoprism",
+    "link": "http://zslsys.v6.rocks:2342"
   },
   {
     "icon": "LaptopCode",
