@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "Docker",
+    "name": "docker",
+    "link": "http://zslsys.v6.rocks/portainer/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "http://zslsys.v6.rocks:5244"
+  },
+  {
+    "icon": "Table",
+    "name": "MCSM",
+    "link": "http://zslsys.v6.rocks:23333"
+  },
+  {
+    "icon": "Cat",
+    "name": "YACD",
+    "link": "http://zslsys.v6.rocks/yacd/"
+  },
+  {
+    "icon": "Robot",
+    "name": "Gpt",
+    "link": "http://zslsys.v6.rocks:12001"
+  },
+  {
+    "icon": "PhotoVideo",
+    "name": "photoprism",
+    "link": "http://zslsys.v6.rocks:2342"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "http://zslsys.v6.rocks/prober.php"
+  }
+]
