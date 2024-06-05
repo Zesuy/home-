@@ -6,7 +6,27 @@
   },
   {
     "icon": "Cloud",
+    "name": "Jmacloud",
+    "link": "http://zslsys.v6.rocks:7070"
+  },
+  {
+    "icon": "Cloud",
     "name": "网盘",
+    "link": "http://zslsys.v6.rocks:5244"
+  },
+  {
+    "icon": "Link",
+    "name": "OneApi",
+    "link": "http://0.0.0.0:3000/token"
+  },
+  {
+    "icon": "Robot",
+    "name": "Gpt",
+    "link": "http://zslsys.v6.rocks:12001"
+  },
+  {
+    "icon": "Cloud",
+    "name": "Alist",
     "link": "http://zslsys.v6.rocks:5244"
   },
   {
@@ -18,11 +38,6 @@
     "icon": "Cat",
     "name": "YACD",
     "link": "http://zslsys.v6.rocks/yacd/"
-  },
-  {
-    "icon": "Robot",
-    "name": "Gpt",
-    "link": "http://zslsys.v6.rocks:12001"
   },
   {
     "icon": "PhotoVideo",
