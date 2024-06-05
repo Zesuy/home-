@@ -3,7 +3,7 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/zhaosiqian"
+    "url": "https://github.com/Zhvsuia"
   },
   {
     "name": "BiliBili",
@@ -16,5 +16,11 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:2824631204@qq.com"
+  }
+  {
+    "name": "Blog",
+    "icon": "/images/icon/icon.png",
+    "tip": "看看我的博客吧！",
+    "url": "http://zslsys.v6.rocks:7071"
   }
 ]
