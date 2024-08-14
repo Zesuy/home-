@@ -2,51 +2,41 @@
   {
     "icon": "Docker",
     "name": "docker",
-    "link": "http://zslsys.v6.rocks/portainer/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "Jmacloud",
-    "link": "http://zslsys.v6.rocks:7070"
+    "link": "http://nas.zesuy.top/portainer/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "http://zslsys.v6.rocks:5244"
+    "link": "http://nas.zesuy.top:5244"
   },
   {
     "icon": "Book",
     "name": "OneApi",
-    "link": "http://0.0.0.0:3000/token"
+    "link": "http://nas.zesuy.top:3000/token"
   },
   {
     "icon": "Robot",
     "name": "Gpt",
-    "link": "http://zslsys.v6.rocks:12001"
-  },
-  {
-    "icon": "Cloud",
-    "name": "Alist",
-    "link": "http://zslsys.v6.rocks:5244"
+    "link": "http://nas.zesuy.top:12001"
   },
   {
     "icon": "Table",
     "name": "MCSM",
-    "link": "http://zslsys.v6.rocks:23333"
+    "link": "http://nas.zesuy.top:23333"
   },
   {
     "icon": "Cat",
     "name": "YACD",
-    "link": "http://zslsys.v6.rocks/yacd/"
+    "link": "http://nas.zesuy.top/yacd/"
   },
   {
     "icon": "PhotoVideo",
     "name": "photoprism",
-    "link": "http://zslsys.v6.rocks:2342"
+    "link": "http://nas.zesuy.top:2342"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "http://zslsys.v6.rocks/prober.php"
+    "link": "http://nas.zesuy.top/prober.php"
   }
 ]
